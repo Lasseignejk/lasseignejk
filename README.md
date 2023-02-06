@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jayelon</h1>
 <h3 align="center">A passionate software engineer from South Carolina</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, TypeScript**
 
 - 👨‍💻 All of my projects are available [here](https://lasseignejk.github.io/index.html)
 
