@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayelon</h1>
 <h3 align="center">A passionate software engineer from South Carolina</h3>
 
-- 🌱 I’m currently learning **React/Redux**
+- 🌱 I’m currently learning **React/Redux, Python, jQuery**
 
 - 👨‍💻 All of my projects are available at [https://lasseignejk.github.io/index.html](https://lasseignejk.github.io/index.html)
 
-- 💬 Ask me about **Python, HTML, CSS, Tailwind CSS, Node.js**
+- 💬 Ask me about **Vanilla CSS, Tailwind CSS, Node.js**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
