@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayelon</h1>
 <h3 align="center">A passionate software engineer from South Carolina</h3>
 
-- 🌱 I’m currently learning **React, Python, MongoDB, Next.js**
+- 🌱 I’m currently learning **React, Python, MongoDB**
 
 - 👨‍💻 All of my projects are available [here](https://jayelon-lasseigne-portfolio.onrender.com/)
 
-- 💬 Ask me about **Vanilla CSS, Tailwind CSS, Node.js, Javascript**
+- 💬 Ask me about **Vanilla CSS, Tailwind CSS, Javascript**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
