@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jayelon</h1>
-<h3 align="center">A passionate software engineer from South Carolina</h3>
+<h1 align="center">Hi, I'm Jayelon</h1>
+<h3 align="center">A detail-oriented software developer from South Carolina</h3>
 
-- 🌱 I’m currently learning **React, Python, MongoDB**
+- 🌱 I’m currently learning **React, Python**
 
 - 👨‍💻 All of my projects are available [here](https://jayelon-lasseigne-portfolio.onrender.com/)
 
