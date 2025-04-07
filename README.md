@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Jayelon</h1>
 <h3 align="center">A detail-oriented software developer from South Carolina</h3>
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 I’m currently learning **Flutter, Python**
 
-- 👨‍💻 All of my projects are available [here](https://jayelon-lasseigne-portfolio.onrender.com/)
-
-- 💬 Ask me about **Vanilla CSS, Tailwind CSS, Javascript**
+- 💬 Ask me about **Flutter, Figma, UI**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
